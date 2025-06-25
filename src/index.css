@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "pd";
+  src: url("./pricedown.otf");
+}
+
+html,body{
+  width: 100%;
+  height: 100%;
+  font-family: "pd";
+  overflow: hidden;
+}
